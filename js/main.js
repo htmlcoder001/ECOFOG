@@ -1,4 +1,3 @@
-/* @author web@2dsd.ru */
 'use strict';
 
 document.addEventListener("DOMContentLoaded", () => {
