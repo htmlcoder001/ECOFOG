@@ -276,6 +276,26 @@ header {
   width: 3px;
   position: absolute;
 }
+.line-middle-wrapper {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 75px;
+  height: 100%;
+  padding-bottom: 32px;
+}
+.line-middle-item {
+  display: block;
+  background-image: url(../img/line-ecofog-logo.png);
+  height: 177px;
+  width: 602px;
+  flex: 1 0 602px;
+  max-width: 602px;
+  -webkit-background-size: contain;
+  background-size: contain;
+  background-repeat: repeat-x;
+}
 .line-bottom-wrapper {
   height: 75px;
   position: absolute;
